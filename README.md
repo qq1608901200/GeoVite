@@ -6,6 +6,8 @@
 ## 概要
 - 自编写GeoRV库
 ![utils](img/utils.png)
+- 组件如下
+![components](img/组件.png)
 ```js
 /**
  * 画笔类 负责将内容绘制到canvas上 仅用于渲染矢量图形
